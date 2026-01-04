@@ -1,0 +1,22 @@
+{
+    "version": "0.0.8",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/rynskrmt/wips-cli/releases/download/v0.0.8/wips-cli_Windows_x86_64.zip",
+            "bin": [
+                "wip.exe"
+            ],
+            "hash": "adf7a801747ce9c9bb10e9dc0d98da83aae6850b668152adf2b14220678de47c"
+        },
+        "arm64": {
+            "url": "https://github.com/rynskrmt/wips-cli/releases/download/v0.0.8/wips-cli_Windows_arm64.zip",
+            "bin": [
+                "wip.exe"
+            ],
+            "hash": "dbe244cc7a589c2f92dbddc9628c218dcf4442d93abaa3cf5e2b1f6b863d3114"
+        }
+    },
+    "homepage": "https://github.com/rynskrmt/wips-cli",
+    "license": "MIT",
+    "description": "wips-cli is a command line tool for tracking your daily work."
+}
