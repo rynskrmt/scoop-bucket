@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rynskrmt/wips-cli/releases/download/v0.1.0/wips-cli_Windows_x86_64.zip",
+            "url": "https://github.com/rynskrmt/wips-cli/releases/download/v0.2.0/wips-cli_Windows_x86_64.zip",
             "bin": [
                 "wip.exe"
             ],
-            "hash": "4942df8e058050f46a5154c9ea18d69af0e9eb59f65a2f538c937e5619d10e81"
+            "hash": "ef4ac47e603249b7fd24091d4cc2c67188d3aa0f33f0c7ba93bf5f14e78b90a9"
         },
         "arm64": {
-            "url": "https://github.com/rynskrmt/wips-cli/releases/download/v0.1.0/wips-cli_Windows_arm64.zip",
+            "url": "https://github.com/rynskrmt/wips-cli/releases/download/v0.2.0/wips-cli_Windows_arm64.zip",
             "bin": [
                 "wip.exe"
             ],
-            "hash": "997b2fa9b0e549853217d37397e4c2d8eb7a3d144cbba7e5410fc64f4e498ca2"
+            "hash": "e752f8feaaacbbb5e58736a50ca724a47d0134f19ed9fa73c28c8ff2c9506f97"
         }
     },
     "homepage": "https://github.com/rynskrmt/wips-cli",
